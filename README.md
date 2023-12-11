@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sintodas1996@gmail.com**
 
-## Project 1: [local-tours-and-travel](Link to Project 1)
+## Project 1:Local-tours-and-travel
 
 [![Project Name 2](URL to Project 2 Image or GIF)](Link to Project 2)
 
