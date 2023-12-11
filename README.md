@@ -62,6 +62,23 @@ My goal is to evolve into a proficient full-stack developer, contributing to inn
 
  [newspaper-site](https://newspaper-site-1c881.web.app/)
 
+ # Newspaper Site
+
+### Description
+- Trending news show in banner
+- Premium and normal users see different
+- An admin control approve or decline articles
+- Authenticate by Firebase
+- Authorization by JWT
+
+#### frontend
+-HTML, TAILWIND CSS, DaisyUI, REACT
+#### Backend
+  -EXPRESS AND MONGODB
+## Live Link
+
+ [newspaper-site](https://y-pi-lovat.vercel.app/)
+
 
 
 
