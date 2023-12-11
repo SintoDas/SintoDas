@@ -18,7 +18,7 @@
 - Fast and efficient performance
 - Here one easy add services and book services
 - Cross-platform compatibility
-- authenticate by firebase
+- authenticate by Firebase
 #### frontend
 -HTML, TAILWIND CSS, REACT
 #### Backend
@@ -39,7 +39,7 @@
   -EXPRESS AND MONGODB
 ## Live Link
 
- [Tours-and-guide](https://newspaper-site-1c881.web.app/)
+ [newspaper-site](https://newspaper-site-1c881.web.app/)
 
 
 
