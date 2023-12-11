@@ -16,7 +16,7 @@
 ### Description
 - Easy-to-use interface
 - Fast and efficient performance
-- Here one easy add services and book services
+- One easy add services and book services
 - Cross-platform compatibility
 - authenticate by Firebase
 #### frontend
