@@ -65,8 +65,8 @@ My goal is to evolve into a proficient full-stack developer, contributing to inn
  # Entertainment & Media Project 
 
 ### Description
-- Click in brand, show availiable products
-- One show his/her added products in Mycart
+- Click on the brand, show available products
+- One shows his/her added products in my cart
 - Authenticate by Firebase
 - Authorization by JWT
 
@@ -76,7 +76,7 @@ My goal is to evolve into a proficient full-stack developer, contributing to inn
   -EXPRESS AND MONGODB
 ## Live Link
 
- [newspaper-site](https://y-pi-lovat.vercel.app/)
+ [entertainment & media project](https://y-pi-lovat.vercel.app/)
 
 
 
