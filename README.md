@@ -32,7 +32,7 @@ My goal is to evolve into a proficient full-stack developer, contributing to inn
 - Fast and efficient performance
 - One easy add services and book services
 - Cross-platform compatibility
-- authenticate by Firebase
+- Authenticate by Firebase
 #### frontend
 -HTML, TAILWIND CSS, REACT
 #### Backend
@@ -46,6 +46,13 @@ My goal is to evolve into a proficient full-stack developer, contributing to inn
 
 
 # Newspaper Site
+
+### Description
+- Trending news show in banner
+- Premium and normal users see different
+- An admin control approve or decline articles
+- Authenticate by Firebase
+- Authorization by JWT
 
 #### frontend
 -HTML, TAILWIND CSS, DaisyUI, REACT
