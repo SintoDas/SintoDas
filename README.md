@@ -14,12 +14,15 @@
 # local tours and travel
 
 ### Description
-## Usage
 - Easy-to-use interface
 - Fast and efficient performance
 - Here one easy add services and book services
-- nCross-platform compatibility
+- Cross-platform compatibility
 - authenticate by firebase
+####frontend
+-HTML, TAILWIND CSS, REACT
+####Backend
+  -EXPRESS AND MONGODB
 
 
 
