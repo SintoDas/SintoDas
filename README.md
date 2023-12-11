@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sintodas&label=Profile%20views&color=0e75b6&style=flat" alt="sintodas" /> </p>
 
+- 🔭 I’m currently working on [Tours-and-guide](https://local-tours-and-guide-3eeda.web.app/)
+
+- 🌱 I’m currently learning **Next.js**
+
 - 💬 Ask me about **MERN**
+
+- 📫 How to reach me **sintodas1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sintodas&show_icons=true&locale=en&layout=compact" alt="sintodas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sintodas&show_icons=true&locale=en" alt="sintodas" /></p>
+
