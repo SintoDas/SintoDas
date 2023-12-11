@@ -14,11 +14,12 @@
 # local tours and travel
 
 ### Description
-
-Easy-to-use interface
-Fast and efficient performance
-Here one easy add services and book services
-Cross-platform compatibility -authenticate by firebase
+## Usage
+- Easy-to-use interface
+- Fast and efficient performance
+- Here one easy add services and book services
+- nCross-platform compatibility
+- authenticate by firebase
 
 
 
