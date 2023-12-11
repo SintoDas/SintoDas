@@ -39,7 +39,7 @@
   -EXPRESS AND MONGODB
 ## Live Link
 
- [Tours-and-guide]([https://newspaper-site-1c881.web.app])
+ [Tours-and-guide](https://newspaper-site-1c881.web.app/)
 
 
 
