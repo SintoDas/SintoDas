@@ -11,29 +11,16 @@
 
 - 📫 How to reach me **sintodas1996@gmail.com**
 
-## Project 1:Local-tours-and-travel
+# local tours and travel
 
-[![Project Name 2](URL to Project 2 Image or GIF)](Link to Project 2)
+## Description
 
-Brief description of Project 1 and its significance or your role in it.
 
-## Project 2: [Project Name 2](Link to Project 2)
 
-[![Project Name 2](URL to Project 2 Image or GIF)](Link to Project 2)
+## Live Link
 
-Brief description of Project 2 and its significance or your role in it.
+[Live Demo]([https://your-live-link-for-project-1.com](https://local-tours-and-guide-3eeda.web.app/))
 
-## Project 3: [Project Name 3](Link to Project 3)
-
-[![Project Name 3](URL to Project 3 Image or GIF)](Link to Project 3)
-
-Brief description of Project 3 and its significance or your role in it.
-
-Feel free to explore the repositories for more details and code snippets.
-
-Connect with me on [LinkedIn](Your LinkedIn Profile) | [Twitter](Your Twitter Profile)
-
-Let's code and build together! 🚀
 
 
 <h3 align="left">Languages and Tools:</h3>
