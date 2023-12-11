@@ -33,7 +33,7 @@ My goal is to evolve into a proficient full-stack developer, contributing to inn
 - One easy add services and book services
 - Cross-platform compatibility
 - Authenticate by Firebase
-#### frontend
+#### Frontend
 -HTML, TAILWIND CSS, REACT
 #### Backend
   -EXPRESS AND MONGODB
