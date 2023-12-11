@@ -15,6 +15,16 @@
 - 📚 Goals:
 My goal is to evolve into a proficient full-stack developer, contributing to innovative projects and collaborating with the tech community. Learning, coding, and building - one line at a time.
 
+
+💻 Tech Stack:
+- HTML & CSS: Crafting beautiful and responsive user interfaces is my forte. I enjoy bringing designs to life with clean and semantic code.
+
+- React.js: I'm on a journey to master the art of building interactive and scalable front-end applications using React.js. Components, states, and props are my daily companions.
+
+- Express.js: As I explore the back-end, Express.js empowers me to create robust and efficient server-side applications. Routing, middleware, and RESTful APIs are becoming second nature.
+
+- MongoDB: I'm delving into the world of NoSQL databases, harnessing MongoDB to store and retrieve data in a flexible and scalable manner. Learning the ins and outs of Mongoose for smooth integration.
+
 # local tours and travel
 
 ### Description
