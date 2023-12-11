@@ -13,7 +13,7 @@
 
 ## Project 1: [](Link to Project 1)
 
-[![Local tours-and0guide]([URL to Project 1 Image or GIF)](https://local-tours-and-guide-3eeda.web.app/)](Link to Project 1)
+[![Local-tours-and-guide](https://local-tours-and-guide-3eeda.web.app/)](Link to Project 1)
 
 Brief description of Project 1 and its significance or your role in it.
 
