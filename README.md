@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sintodas1996@gmail.com**
 
-## Project 1: [](Link to Project 1)
+## Project 1: [local-tours-and-travel](Link to Project 1)
 
 [![Project Name 2](URL to Project 2 Image or GIF)](Link to Project 2)
 
@@ -42,4 +42,3 @@ Let's code and build together! 🚀
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sintodas&show_icons=true&locale=en&layout=compact" alt="sintodas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sintodas&show_icons=true&locale=en" alt="sintodas" /></p>
-
