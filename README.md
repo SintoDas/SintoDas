@@ -11,13 +11,9 @@
 
 - 📫 How to reach me **sintodas1996@gmail.com**
 
-# Hi there! 👋
+## Project 1: [](Link to Project 1)
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate web developer currently exploring various technologies. Here are some of my notable projects:
-
-## Project 1: [Project Name 1](Link to Project 1)
-
-[![Project Name 1](URL to Project 1 Image or GIF)](Link to Project 1)
+[![Local tours-and0guide]([URL to Project 1 Image or GIF)](https://local-tours-and-guide-3eeda.web.app/)](Link to Project 1)
 
 Brief description of Project 1 and its significance or your role in it.
 
