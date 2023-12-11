@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://i.ibb.co/BqXdDky/git-Hub-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sinto Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
