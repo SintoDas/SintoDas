@@ -12,6 +12,8 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sintodas1996@gmail.com**
+- 📚 Goals:
+My goal is to evolve into a proficient full-stack developer, contributing to innovative projects and collaborating with the tech community. Learning, coding, and building - one line at a time.
 
 # local tours and travel
 
@@ -45,7 +47,7 @@
 
 
 
-📚 Actively seeking opportunities to grow and learn in a collaborative environment. 💼 As a job seeker, I am passionate about translating my theoretical knowledge into practical solutions and contributing to real-world projects.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
